@@ -3,7 +3,7 @@ import { createRouter, createWebHistory } from "vue-router";
 
 
 import firstPage from './components/pages/myFirstVuePage'
-import main from './components/ExampleComponent'
+import main from './components/mainapp'
 import newRoute from './components/pages/newRoute'
 import hooks from './components/pages/basic/hooks'
 import methods from './components/pages/basic/methods'
